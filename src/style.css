@@ -1,0 +1,27 @@
+body{
+    background: url(https://i.pinimg.com/736x/54/d7/83/54d783cdd4cf1d1884edb6f6b9424c73.jpg);
+}
+
+h1{
+    text-align: center;
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    border: 1px solid rgb(2, 0, 3);
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    outline: none;
+    padding: 10px 15px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.card{
+
+    height: 30rem;
+}
+
+
